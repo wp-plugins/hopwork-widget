@@ -4,7 +4,7 @@
   Plugin URI: https://copier-coller.com/hopwork-widget
   Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=43XMASQSUE4YE
   Description: A widget to display your hopwork profile.
-  Version: 1.0
+  Version: 1.1
   Author: Matthieu Solente
   Author URI: https://copier-coller.com
   License: GPL2
